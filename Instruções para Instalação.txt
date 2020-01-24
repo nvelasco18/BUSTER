@@ -1,0 +1,40 @@
+== Instalação ==
+
+1) Extraia o arquivo "Script-Flix2.zip"
+
+2) Crie um novo banco de dados MySQL e vincule o usuário ao banco de dados com todas
+as permissões.
+
+3) Suba o arquivo "banco.sql.zip" para o banco criado!
+
+4) Suba o arquivo "Flix2.zip" para o seu servidor no local onde deseja instalar e descompacte-o lá!
+OBS: Não é aconselhável instalar em subpasta, somente na Raiz ou em SubDominio!
+
+5) Edite o arquivo "database.php" no Caminho: application/config/database.php
+E insira os dados do seu banco nas linhas: 79, 80, 81
+
+6) Verifique se sua hospedagem atende aos requisitos exigidos:
+
+REQUISITOS DA HOSPEDAGEM: =============
+Banco de dados exigido Mysql 5.6 ou superior
+Versão do PHP 7.0 ou superior
+Função PHP Mail Habilitada
+Função PHP Curl Habilitada
+
+7)  Agora digite a url em seu navegador: www.seussite.com.br
+
+Credenciais do administrador padrão
+E-mail: admin@admin.com
+Senha: admin321
+
+ATENÇÃO: Após o primeiro acesso, altere a senha e o email padrão pelo seu próprio por questão de segurança!
+
+Obrigado por comprar nosso script!
+
+OBSERVAÇÃO: ==========================================
+Caso tenha algum problema ou dúvidas Por favor, NÃO ABRA RECLAMAÇÃO no MercadoLivre...
+Pois isso prejudica a nossa Conta como Vendedor!
+
+
+Estaremos sempre a disposição para ajuda-lo!!!
+Contato: seisbrasil@hotmail.com
